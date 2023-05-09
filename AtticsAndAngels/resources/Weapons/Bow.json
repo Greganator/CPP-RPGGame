@@ -1,0 +1,9 @@
+{
+  "ID": 0,
+  "damage": {
+    "Die": 3,
+    "Mod": 1
+  },
+  "name": "Bow",
+  "weapontype": 2
+}

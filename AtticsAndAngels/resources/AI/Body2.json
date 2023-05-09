@@ -1,0 +1,16 @@
+{
+  "ID": 10,
+  "classID": 2,
+  "hp": 0,
+  "level": 2,
+  "mp": 0,
+  "name": "Body",
+  "statistics": {
+    "Con": 0,
+    "Dex": 0,
+    "Mnd": 0,
+    "Str": 0
+  },
+  "weaponID": 2,
+  "xp": 30
+}

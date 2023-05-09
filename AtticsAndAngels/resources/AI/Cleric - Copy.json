@@ -1,0 +1,16 @@
+{
+  "ID": 13,
+  "classID": 0,
+  "hp": 0,
+  "level": 1,
+  "mp": 0,
+  "name": "Cleric",
+  "statistics": {
+    "Con": 3,
+    "Dex": 0,
+    "Mnd": 7,
+    "Str": 0
+  },
+  "weaponID": 1,
+  "xp": 10
+}

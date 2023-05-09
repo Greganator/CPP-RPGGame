@@ -1,0 +1,16 @@
+{
+  "ID": 1,
+  "classID": 5,
+  "hp": 0,
+  "level": 2,
+  "mp": 0,
+  "name": "Sword Master",
+  "statistics": {
+    "Con": 3,
+    "Dex": 3,
+    "Mnd": 0,
+    "Str": 10
+  },
+  "weaponID": 0,
+  "xp": 25
+}

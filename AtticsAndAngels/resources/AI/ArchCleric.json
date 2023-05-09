@@ -1,0 +1,16 @@
+{
+  "ID": 7,
+  "classID": 0,
+  "hp": 0,
+  "level": 3,
+  "mp": 0,
+  "name": "Arch Clecic",
+  "statistics": {
+    "Con": 5,
+    "Dex": 5,
+    "Mnd": 10,
+    "Str": 0
+  },
+  "weaponID": 0,
+  "xp": 25
+}

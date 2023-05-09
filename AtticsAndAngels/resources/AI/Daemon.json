@@ -1,0 +1,16 @@
+{
+  "ID": 4,
+  "classID": 3,
+  "hp": 0,
+  "level": 1,
+  "mp": 0,
+  "name": "Daeon",
+  "statistics": {
+    "Con": 6,
+    "Dex": 0,
+    "Mnd": 0,
+    "Str": 4
+  },
+  "weaponID": 2,
+  "xp": 15
+}

@@ -1,0 +1,16 @@
+{
+  "ID": 9,
+  "classID": 4,
+  "hp": 0,
+  "level": 2,
+  "mp": 0,
+  "name": "Angel",
+  "statistics": {
+    "Con": 5,
+    "Dex": 5,
+    "Mnd": 0,
+    "Str": 5
+  },
+  "weaponID": 2,
+  "xp": 30
+}

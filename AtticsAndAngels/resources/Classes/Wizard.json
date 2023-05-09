@@ -1,0 +1,10 @@
+{
+  "ID": 2,
+  "classBonus": {
+    "Con": 0,
+    "Dex": 0,
+    "Mnd": 2,
+    "Str": 0
+  },
+  "name": "Wizard"
+}

@@ -1,0 +1,16 @@
+{
+  "ID": 8,
+  "classID": 4,
+  "hp": 0,
+  "level": 5,
+  "mp": 0,
+  "name": "Gregreil",
+  "statistics": {
+    "Con": 5,
+    "Dex": 10,
+    "Mnd": 15,
+    "Str": 0
+  },
+  "weaponID": 1,
+  "xp": 150
+}
